@@ -100,13 +100,13 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-### 7. Create a superuser (optional but recommended)
+### 6. Create a superuser (optional but recommended)
 
 ```bash
 python manage.py createsuperuser
 ```
 
-### . Start the development server
+### 7. Start the development server
 
 ```bash
 python manage.py runserver
